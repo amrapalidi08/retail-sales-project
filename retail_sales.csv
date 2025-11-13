@@ -1,0 +1,13 @@
+﻿OrderID,Date,Product,Category,Quantity,UnitPrice,Region
+1001,1/3/24,Notebook,Stationery,4,5.5,East
+1002,1/4/24,Pen,Stationery,10,1.2,South
+1003,1/6/24,Coffee Mug,Home Goods,2,9.99,West
+1004,1/9/24,Desk Lamp,Furniture,1,29.99,East
+1005,1/12/24,Planner,Stationery,3,12,North
+1006,1/14/24,Throw Pillow,Home Goods,2,14.99,South
+1007,1/15/24,Mouse,Furniture,1,19.99,West
+1008,1/17/24,Water Bottle,Home Goods,5,7.5,North
+1009,1/18/24,Markers,Stationery,6,3,East
+1010,1/21/24,Picture Frame,Home Goods,1,11.99,South
+1011,1/24/24,Keyboard,Furniture,1,39.99,North
+1012,1/27/24,Journal,Stationery,2,8,West
